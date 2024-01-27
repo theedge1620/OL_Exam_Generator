@@ -1,0 +1,246 @@
+{
+    "summary": {
+        "site": "Calloway",
+        "type": "PWR",
+        "rev": "0",
+        "examDate": "01/26/2024",
+        "tier1": {
+            "group1": {
+                "RO": {
+                    "K1": 3,
+                    "K2": 3,
+                    "K3": 3,
+                    "A1": 3,
+                    "A2": 3,
+                    "G": 3,
+                    "total": 18
+                },
+                "SRO": {
+                    "A2": 3,
+                    "G": 3,
+                    "total": 6
+                }
+            },
+            "group2": {
+                "RO": {
+                    "K1": 2,
+                    "K2": 1,
+                    "K3": 1,
+                    "A1": 1,
+                    "A2": 2,
+                    "G": 1,
+                    "total": 8
+                },
+                "SRO": {
+                    "A2": 2,
+                    "G": 2,
+                    "total": 4
+                }
+            },
+            "totals": {
+                "RO": {
+                    "K1": 5,
+                    "K2": 4,
+                    "K3": 4,
+                    "A1": 4,
+                    "A2": 5,
+                    "G": 4,
+                    "total": 26
+                },
+                "SRO": {
+                    "A2": 5,
+                    "G": 5,
+                    "total": 10
+                }
+            }
+        },
+        "tier2": {
+            "group1": {
+                "RO": {
+                    "K1": 3,
+                    "K2": 3,
+                    "K3": 3,
+                    "K4": 2,
+                    "K5": 3,
+                    "K6": 2,
+                    "A1": 2,
+                    "A2": 3,
+                    "A3": 3,
+                    "A4": 2,
+                    "G": 2,
+                    "total": 28
+                },
+                "SRO": {
+                    "A2": 2,
+                    "G": 3,
+                    "total": 5
+                }
+            },
+            "group2": {
+                "RO": {
+                    "K1": 0,
+                    "K2": 1,
+                    "K3": 1,
+                    "K4": 1,
+                    "K5": 1,
+                    "K6": 1,
+                    "A1": 1,
+                    "A2": 1,
+                    "A3": 1,
+                    "A4": 1,
+                    "G": 0,
+                    "total": 9
+                },
+                "SRO": {
+                    "A2": {
+                        "a": 1,
+                        "b": 1
+                    },
+                    "G": 1,
+                    "total": 3
+                }
+            },
+            "totals": {
+                "RO": {
+                    "K1": 3,
+                    "K2": 4,
+                    "K3": 4,
+                    "K4": 3,
+                    "K5": 4,
+                    "K6": 3,
+                    "A1": 2,
+                    "A2": 4,
+                    "A3": 4,
+                    "A4": 3,
+                    "G": 2,
+                    "total": 38
+                },
+                "SRO": {
+                    "A2": 4,
+                    "G": 4,
+                    "total": 8
+                }
+            }
+        },
+        "tier3": {
+            "RO": {
+                "cat1": 2,
+                "cat2": 2,
+                "cat3": 1,
+                "cat4": 1,
+                "total": 6
+            },
+            "SRO": {
+                "cat1": 2,
+                "cat2": 2,
+                "cat3": 1,
+                "cat4": 2,
+                "total": 7
+            }
+        }
+    },
+    "topics": {
+        "t1g1": [
+            {
+                "itemNum": 1,
+                "type": "RO",
+                "name": "(APE 22) LOSS OF REACTOR Coolant Makeup (CFR: 41.8 / 41.10 / 45.3 / 45.3)",
+                "KA": "K1",
+                "topic": "(022AK1.05) Knowledge of the operational implications and/or cause and effect relationships of the following concepts as they apply to (APE 22) LOSS OF REACTOR Coolant Makeup (CFR: 41.8 / 41.10 / 45.3 / 45.3): How long a PZR level can be maintained within limits",
+                "IR": 3.5,
+                "qNum": 1
+            }
+        ],
+        "t1g2": [
+            {
+                "itemNum": 27,
+                "type": "RO",
+                "name": "(039K2.01) Knowledge of electrical power supplies to the following (CFR: 41.7)",
+                "KA": "K3",
+                "topic": "Knowledge of electrical power supplies to the following (CFR: 41.7): (SF4S MSS) MAIN AND REHEAT STEAM SYSTEM Safety‑related MRSS valves",
+                "IR": 3.1,
+                "qNum": 27
+            }
+        ],
+        "t2g1": [
+            {
+                "itemNum": 3,
+                "type": "RO",
+                "name": "05(APE5)Rod Withdrawal / 1",
+                "KA": "A2",
+                "topic": "Topic Name goes here and it's a doozy.",
+                "IR": 1.2,
+                "qNum": 5
+            }
+        ],
+        "t2g2": [
+            {
+                "itemNum": 4,
+                "type": "SRO",
+                "name": "06(APE6)Continuous Withdrawal / 1",
+                "KA": "A2",
+                "topic": "Topic Name goes here and it's a doozy.",
+                "IR": 2.2,
+                "qNum": 22
+            }
+        ],
+        "t3": [
+            {
+                "category": 1,
+                "data": [
+                    {
+                        "itemNum": 5,
+                        "type": "SRO",
+                        "category": 2,
+                        "KA": "G2.1.2",
+                        "topic": "Topic Name goes here and it's a doozy.",
+                        "IR": 1.9,
+                        "qNum": 52
+                    }
+                ]
+            },
+            {
+                "category": 2,
+                "data": [
+                    {
+                        "itemNum": 5,
+                        "type": "RO",
+                        "category": 2,
+                        "KA": "G2.1.2",
+                        "topic": "Topic Name goes here and it's a doozy.",
+                        "IR": 1.9,
+                        "qNum": 52
+                    }
+                ]
+            },
+            {
+                "category": 3,
+                "data": [
+                    {
+                        "itemNum": 5,
+                        "type": "RO",
+                        "category": 2,
+                        "KA": "G2.1.2",
+                        "topic": "Topic Name goes here and it's a doozy.",
+                        "IR": 1.9,
+                        "qNum": 52
+                    }
+                ]
+            },
+            {
+                "category": 4,
+                "data": [
+                    {
+                        "itemNum": 5,
+                        "type": "SRO",
+                        "category": 2,
+                        "KA": "G2.1.2",
+                        "topic": "Topic Name goes here and it's a doozy.",
+                        "IR": 1.9,
+                        "qNum": 52
+                    }
+                ]
+            }
+        ]
+    }
+}

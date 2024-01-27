@@ -1,0 +1,248 @@
+[
+    {
+        "site": "ANO 1",
+        "id": "ano1"
+    },
+    {
+        "site": "ANO 2",
+        "id": "ano2"
+    },
+    {
+       "site": "Beaver Valley 1",
+        "id": "bv1"
+    },
+    {
+       "site": "Beaver Valley 2",
+        "id": "bv2"
+    },
+    {
+       "site": "Braidwood",
+       "id": "bv1"
+    },
+    {
+        "site": "Browns Ferry",
+        "id": "bv1"
+     },
+    { 
+        "site": "Brunswick",
+        "id": "bv1"
+    },
+    {       "site": "Byron",
+        "id": "bv1"
+    },
+    {
+        "site": "Callaway",
+         "id": "cal"
+    },
+    {
+        "site": "Calvert Cliffs",
+        "id": "calv"
+    },
+    {       
+        "site": "Catawba",
+        "id": "cat"
+    },
+    {
+        "site": "Clinton",
+        "id": "cli"
+     },
+    { 
+        "site": "Columbia Generating Station",
+        "id": "col"
+     },
+    {
+        "site": "Comanche Peak",
+        "id": "com"
+     },
+    {
+        "site": "Cooper",
+        "id": "coop"
+     },
+     {
+        "site": "D.C. Cook",
+        "id": "cook"
+     },
+     {
+        "site": "Davis-Besse",
+        "id": "dav"
+     },
+     {
+        "site": "Diablo Canyon",
+        "id": "diab"
+     },
+     {
+        "site": "Dresden",
+        "id": "dres"
+     },
+     {
+        "site": "Farley",
+        "id": "far"
+     },
+     {
+        "site": "Fermi",
+        "id": "fer"
+     },
+     {
+        "site": "FitzPatrick",
+        "id": "fit"
+     },
+     {
+        "site": "Ginna",
+        "id": "gin"
+     },
+     {
+        "site": "Grand Gulf",
+        "id": "gra"
+     },
+     {
+        "site": "Hatch",
+        "id": "hat"
+     },
+     {
+        "site": "Hope Creek",
+        "id": "hop"
+     },
+     {
+        "site": "Indian Point",
+        "id": "ind"
+     },
+     {
+        "site": "La Salle",
+        "id": "las"
+     },
+     {
+        "site": "Limerick",
+        "id": "lim"
+     },
+     {
+        "site": "McGuire",
+        "id": "mcg"
+     },
+     {
+        "site": "Millstone 2",
+        "id": "mil2"
+     },
+     {
+        "site": "Millstone 3",
+        "id": "mil3"
+     },
+     {
+        "site": "Monticello",
+        "id": "mont"
+     },
+     {
+        "site": "Nine Mile Point 1",
+        "id": "nin1"
+     },
+     {
+        "site": "Nine Mile Point 2",
+        "id": "nin2"
+     },
+     {
+        "site": "North Anna",
+        "id": "nor"
+     },
+     {
+        "site": "Oconee",
+        "id": "oco"
+     },
+     {
+        "site": "Palisades",
+        "id": "pal"
+     },
+     {
+        "site": "Palo Verde",
+        "id": "palo"
+     },
+     {
+        "site": "Peach Bottom",
+        "id": "pea"
+     },
+     {
+        "site": "Perry",
+        "id": "per"
+     },
+     {
+        "site": "Point Beach",
+        "id": "poi"
+     },
+     {
+        "site": "Prairie Island",
+        "id": "pra"
+     },
+     {
+        "site": "Quad Cities",
+        "id": "qua"
+     },
+     {
+        "site": "River Bend",
+        "id": "riv"
+     },
+     {
+        "site": "Robinson",
+        "id": "rob"
+     },
+     {
+        "site": "Saint Lucie",
+        "id": "sai"
+     },
+     {
+        "site": "Salem",
+        "id": "sal"
+     },
+     {
+        "site": "Seabrook",
+        "id": "sea"
+     },
+     {
+        "site": "Sequoyah",
+        "id": "seq"
+     },
+     {
+        "site": "Shearon Harris",
+        "id": "she"
+     },
+     {
+        "site": "South Texas",
+        "id": "sou"
+     },
+     {
+        "site": "Summer",
+        "id": "sum"
+     },
+     {
+        "site": "Surry",
+        "id": "sur"
+     },
+     {
+        "site": "Susquehanna",
+        "id": "sus"
+     },
+     {
+        "site": "Three Mile Island",
+        "id": "tmi"
+     },
+     {
+        "site": "Turkey Point",
+        "id": "tur"
+     },
+     {
+        "site": "Vogtle",
+        "id": "vog"
+     },
+     {
+        "site": "Waterford",
+        "id": "wat"
+     },
+     {
+        "site": "Watts Bar",
+        "id": "watt"
+     },
+     {
+        "site": "Wolf Creek",
+        "id": "wolf"
+     }
+]
+
+    
+        
